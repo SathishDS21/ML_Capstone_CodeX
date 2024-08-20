@@ -1,4 +1,4 @@
-# Capstone_Project_Machine_Learning
+# ML_Capstone
 
 * Project Scripts 
 * Data Cleaning
